@@ -1,8 +1,8 @@
-- 👋 Olá, sou o <h1>António Fernando Macaringue</h1>
-- Estou interessado em desenvolver profissionalmente na área de TI;
-- Disponivel para vagas de emprego e tenho boa capacidade de aprendizado e trabalho em equipa;
-- 
-- <strong>Contactos:</strong>
+<h1>António Fernando Macaringue</h1>
+Interessado em desenvolver profissionalmente na área de TI;
+Disponivel para vagas de emprego, boa capacidade de aprendizado e trabalho em equipa;
+
+<h2><strong>Contactos:</strong></h2>
 - +258 84 041 0143;
 - Email: antoniomacaringue27@gmail.com;
 
