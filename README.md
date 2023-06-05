@@ -1,5 +1,5 @@
 <h1>António Fernando Macaringue</h1>
-Interessado em desenvolver profissionalmente na área de TI;
+Interessado em desenvolver profissionalmente na área de TI;<br>
 Disponivel para vagas de emprego, boa capacidade de aprendizado e trabalho em equipa;
 
 <h2><strong>Contactos:</strong></h2>
