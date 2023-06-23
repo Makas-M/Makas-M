@@ -3,7 +3,7 @@ Interessado em desenvolver profissionalmente na área de TI;<br>
 Disponivel para vagas de emprego, boa capacidade de aprendizado e trabalho em equipa;
 
 <h2><strong>Contactos:</strong></h2>
-- +258 84 041 0143;<br>
+- Telefone: +258 84 041 0143;<br>
 - Email: <link>antoniomacaringue27@gmail.com </link>
 
 <div>
