@@ -1,10 +1,11 @@
 <h1>António Fernando Macaringue</h1>
-Interessado em desenvolver profissionalmente na área de TI;<br>
-Disponivel para vagas de emprego, boa capacidade de aprendizado e trabalho em equipa;
+Interessado em Progredir profissionalmente no Mundo da Programação;<br>
+
 
 <h2><strong>Contactos:</strong></h2>
 - Telefone: +258 84 041 0143;<br>
 - Email: <link>antoniomacaringue27@gmail.com </link>
+- <a href="https://wa.me/258840410143">Clica para mandar mensagem no Whatsapp</a>
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
