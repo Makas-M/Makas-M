@@ -1,28 +1,5 @@
-html
-Copy code
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.typewriter {
-  overflow: hidden;
-  border: 1px solid black;
-  white-space: nowrap;
-}
-
-.typewriter h1 {
-  font-size: 24px;
-  padding: 10px;
-  margin: 0;
-}
-</style>
-</head>
-<body>
-  <div class="typewriter">
-    <h1>António Fernando Macaringue</h1>
-  </div>
-</body>
-</html>
+# <h1>António Fernando Macaringue</h1>
+ 
 Interessado em Progredir profissionalmente no Mundo da Programação;<br>
 
 
