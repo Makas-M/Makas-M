@@ -1,7 +1,3 @@
-
-Claro, você pode criar um efeito de máquina de escrever usando apenas HTML e CSS para ser usado em um arquivo README do GitHub. No entanto, observe que o GitHub não suporta a execução de JavaScript diretamente nos arquivos README. Então, você terá um efeito estático, sem a animação real de digitação. Aqui está um exemplo simples:
-
-Crie um arquivo chamado index.html com o seguinte conteúdo:
 html
 Copy code
 <!DOCTYPE html>
